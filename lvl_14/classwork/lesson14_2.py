@@ -4,4 +4,4 @@
 summ_odd_numbers = 0
 for number in range(1 , 10 , 2): 
  summ_odd_numbers += number
- print(summ_odd_numbers)   
+print(summ_odd_numbers)   

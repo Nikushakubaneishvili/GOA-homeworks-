@@ -3,7 +3,7 @@
 number= 0
 sum_multiples_of_3 = 0 
 while number <= 100: 
-    if number % 3 != 0 :
+    if number % 3 == 0 :
         sum_multiples_of_3 += number 
     number += 1 
-print(sum_multiples_of_3) 
+print(sum_multiples_of_3)  
