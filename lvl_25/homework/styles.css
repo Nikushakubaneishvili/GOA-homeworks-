@@ -1,0 +1,17 @@
+.heading {
+  font-size: 60px;
+  font-weight: 50px;
+}
+.paragraph {
+  font-size: 40px;
+  font-weight: 20px;
+  color: blue;
+}
+
+hr {
+  border-color: black;
+}
+
+img {
+  border-radius: 50px;
+}

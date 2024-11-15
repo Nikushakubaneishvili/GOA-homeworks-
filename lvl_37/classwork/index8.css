@@ -1,0 +1,6 @@
+.scale-box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    transform: scale(2); /* ელემენტის გაზრდა 2-ჯერ */
+} 

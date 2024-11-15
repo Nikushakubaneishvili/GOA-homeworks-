@@ -1,0 +1,25 @@
+:root {
+    --main-color: #3498db; /* მთავრი ფერი */
+}
+
+.box {
+    background-color: var(--main-color);
+    padding: 20px;
+    margin: 10px 0;
+    color: white;
+    text-align: center;
+}
+
+.text {
+    background-color: var(--main-color);
+    padding: 10px;
+    color: white;
+    margin: 10px 0;
+}
+
+.btn {
+    background-color: var(--main-color);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+}

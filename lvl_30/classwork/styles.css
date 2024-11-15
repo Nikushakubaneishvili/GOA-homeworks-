@@ -1,0 +1,17 @@
+.first:hover {
+  /*იცვლება ტექსტის მდგომარეობა მაუსის მიტანის შემდეგ*/
+  color: green;
+  font-size: 20px;
+}
+
+.second:active {
+  /*მხოლოდ მაშინ შეიცლის მდგომარეობას როცა მასზე გვეჭირება მაუსი*/
+  color: blueviolet;
+  font-size: 20px;
+}
+
+.second:visited {
+  /*შეიცვლის მდგომარეობას როცა ლინკზე უკვე ნამყოფი ვართ*/
+  color: skyblue;
+  font-size: 20px;
+}

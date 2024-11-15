@@ -1,0 +1,15 @@
+
+.box {
+    width: 100px;        /* სიგანე */
+    height: 100px;       /* სიმაღლე */
+    background-color: green;  /* უკანა ფერი */
+    transition: 
+        background-color 0.5s ease, /* ფერის შეცვლა */
+        transform 0.5s ease;        /* ტრანსფორმაციის ეფექტი */
+}
+
+/* როდესაც ბლოკზე ვეხებით, ეს სტილები ამოქმედდება */
+.box:hover {
+    background-color: blue; /* უკანა ფერის შეცვლა */
+    transform: scale(1.2);   /* გაზრდა 1.2 ჯერ */
+}

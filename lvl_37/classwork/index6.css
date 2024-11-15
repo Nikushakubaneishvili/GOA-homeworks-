@@ -1,0 +1,6 @@
+.scale-box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    transform: scale(1.5); 
+}

@@ -1,0 +1,19 @@
+img {
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  /*     სისქე    როგორი      ფერი*/
+  border: 5px solid rgb(3, 129, 255);
+  width: 50px;
+  padding: 10px; /* ცვლის ელემენტსა და ბორდერს შორის მანძილს*/
+  margin: 10px; /* ცვლის ელემენტებს შორის მანძილს*/
+}
+
+body {
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column; /*column-ვერტიკალურად row-ჰორიზონტალურად*/
+
+  align-items: flex-; /*flex-end, flex-start, center*/
+  justify-content: space-evenly; /*center, space-between, space-around, space-evenly */
+}

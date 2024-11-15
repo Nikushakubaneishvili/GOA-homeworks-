@@ -1,0 +1,19 @@
+p{
+  color:green
+}
+
+.paragraph{
+    color:green 
+} 
+
+#nika{
+    color:greenyellow 
+}
+
+ul li{ 
+    color:greenyellow
+}
+
+input [type="email"] {
+    color:green
+} 

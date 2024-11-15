@@ -1,0 +1,6 @@
+.rotate-box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    transform: rotate(30deg); /* ელემენტის ბრუნვა 30 გრადუსით საათის ისრის მიმართულებით */
+} 
